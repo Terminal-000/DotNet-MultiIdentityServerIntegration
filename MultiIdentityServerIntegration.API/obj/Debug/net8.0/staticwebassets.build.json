@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ncLMRWtFDQ66uXxvq3e84R5LFNpEM3VofnLh96RJHDo=",
+  "Source": "MultiIdentityServerIntegration.API",
+  "BasePath": "_content/MultiIdentityServerIntegration.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

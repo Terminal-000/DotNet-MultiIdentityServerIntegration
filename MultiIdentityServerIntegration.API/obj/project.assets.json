@@ -351,6 +351,20 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "MultiIdentityServerIntegration.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "FluentResults": "4.0.0",
+          "MediatR": "13.1.0"
+        },
+        "compile": {
+          "bin/placeholder/MultiIdentityServerIntegration.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiIdentityServerIntegration.Application.dll": {}
+        }
       }
     }
   },
@@ -1124,6 +1138,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "MultiIdentityServerIntegration.Application/1.0.0": {
+      "type": "project",
+      "path": "../MultiIdentityServerIntegration.Application/MultiIdentityServerIntegration.Application.csproj",
+      "msbuildProject": "../MultiIdentityServerIntegration.Application/MultiIdentityServerIntegration.Application.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1133,6 +1152,7 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.17",
       "Microsoft.Extensions.DependencyInjection >= 9.0.10",
+      "MultiIdentityServerIntegration.Application >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
@@ -1161,7 +1181,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.Application/MultiIdentityServerIntegration.Application.csproj": {
+              "projectPath": "/home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.Application/MultiIdentityServerIntegration.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

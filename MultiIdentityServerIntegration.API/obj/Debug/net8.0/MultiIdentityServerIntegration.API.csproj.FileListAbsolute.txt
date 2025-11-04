@@ -39,3 +39,11 @@
 /home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/obj/Debug/net8.0/MultiIdentityServerIntegration.API.pdb
 /home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/obj/Debug/net8.0/MultiIdentityServerIntegration.API.genruntimeconfig.cache
 /home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/obj/Debug/net8.0/ref/MultiIdentityServerIntegration.API.dll
+/home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/bin/Debug/net8.0/MultiIdentityServerIntegration.Application.dll
+/home/faraz/Documents/Personal/REN/DotNet-MultiIdentityServerIntegration/MultiIdentityServerIntegration.API/bin/Debug/net8.0/MultiIdentityServerIntegration.Application.pdb

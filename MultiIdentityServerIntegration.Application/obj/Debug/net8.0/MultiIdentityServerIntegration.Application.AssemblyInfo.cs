@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiIdentityServerIntegration.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+252a10da48b99f918fbb80b75699adff4a416a19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f88db02acfc7198977eaead6b34ca7e566e491b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiIdentityServerIntegration.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiIdentityServerIntegration.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

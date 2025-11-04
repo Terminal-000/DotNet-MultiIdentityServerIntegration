@@ -1,0 +1,63 @@
+## === .NET Build Artifacts ===
+bin/
+obj/
+out/
+debug/
+release/
+
+## === User-specific Files ===
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+## === IDE / Editor Settings ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+## === ASP.NET Core Logs & Temp Files ===
+*.db
+*.db-shm
+*.db-wal
+logs/
+LogFiles/
+App_Data/
+temp/
+
+## === Configuration Secrets ===
+appsettings.Development.json
+appsettings.*.local.json
+secrets.json
+
+## === System Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## === Build & Publish Output ===
+/publish/
+/dist/
+/packages/
+/node_modules/
+
+## === Coverage & Reports ===
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+*.codecoverage
+*.trx
+
+## === Tool Artifacts ===
+/.env
+/.vs/
+global.json
+launchSettings.json
+
+## === Optional: Keep these tracked (uncomment if you need them) ===
+# !appsettings.json
+# !appsettings.Production.json
+# !launchSettings.json
